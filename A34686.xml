@@ -1,0 +1,978 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nashauanittue meninnunk wutch Mukkiesog, wussesemumun wutch sogkodtunganash Naneeswe Testamentsash; wutch ukkesitchippooonganoo ukketeahogkounooh. Nogon'ac wussukhùmun ut Engllishm'anne unnun-toowaonganit, nashpe ne 'anue, wunnergen'uc nohtrompeantog. Noh asoow'esit John Cotton. Kah yeuyeu qoshkinn'umun en Indianæ unnontoo-waonganit wutch oonenchikqun'aout Indianae Mukkiesog, nashpe Grindal Rawson. Wunnaunchemook'ae nohtompeantog ut kenugke Indianog.</title>
+            <title>Spiritual milk for babes. North American Indian.</title>
+            <author>Cotton, John, 1584-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34686</idno>
+            <idno type="STC">Wing C6446</idno>
+            <idno type="STC">ESTC R213380</idno>
+            <idno type="EEBO-CITATION">99825775</idno>
+            <idno type="PROQUEST">99825775</idno>
+            <idno type="VID">30162</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34686)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30162)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1757:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nashauanittue meninnunk wutch Mukkiesog, wussesemumun wutch sogkodtunganash Naneeswe Testamentsash; wutch ukkesitchippooonganoo ukketeahogkounooh. Nogon'ac wussukhùmun ut Engllishm'anne unnun-toowaonganit, nashpe ne 'anue, wunnergen'uc nohtrompeantog. Noh asoow'esit John Cotton. Kah yeuyeu qoshkinn'umun en Indianæ unnontoo-waonganit wutch oonenchikqun'aout Indianae Mukkiesog, nashpe Grindal Rawson. Wunnaunchemook'ae nohtompeantog ut kenugke Indianog.</title>
+                  <title>Spiritual milk for babes. North American Indian.</title>
+                  <author>Cotton, John, 1584-1652.</author>
+                  <author>Rawson, Grindal, 1659-1715. aut</author>
+               </titleStmt>
+               <extent>13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printeuoop nashpe Samuel Green, kah Bartholomew Green,</publisher>
+                  <pubPlace>Cambridge [Mass.] :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation, by Grindal Rawson, of: Cotton, John. Spiritual milk for babes.</note>
+                  <note>Reproduction of the original in the St. John's Library, Cambridge (England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="nai">nai</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, North American Indian --  Early works to 1800.</term>
+               <term>Missions --  Biblical teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="nai">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30162:1"/>
+            <pb facs="tcp:30162:1"/>
+            <p>
+               <hi>Naſhauanittue Meninnunk</hi> WUTCH MUKKIESOG, Wuſſeſèmumun wutch Sogkodtunganaſh Naneeſwe <hi>TESTAMENTSASH;</hi> WUTCH Ukkeſitchippooonganoo Ukketeahogkounooh. Negonáe wuſſukhùmun ut Engliſhmánne Unnon<g ref="char:EOLhyphen"/>toowaonganit, naſhpe ne ánue, wunnegenùe Nohtompeantog.</p>
+            <p>Noh aſoowèſit <hi>JOHN COTTON.</hi> Kah yeuyeu quſhkinnúmun en <hi>Indiane</hi> Unnontoo<g ref="char:EOLhyphen"/>waonganit wutch conenehikqunàout <hi>INDIANE</hi> MUKKIESOG, Naſhpe <hi>GRINDAL RAWSON.</hi> Wunnaunchemookáe Nohtompeantog ut kenugke <hi>INDIANO<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <q>Onatuh miſhketuog kodtantamook pahke meninnunnú<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Wuttinnoowaonk, onk woh kenaſhpèkinean. <bibl>
+                  <hi>1 Pet. 2.2.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>CAMBRIDGE:</hi> Printe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oop naſhpe <hi>Samuel Green,</hi> ka<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Bartholomew Green,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:30162:2"/>
+            <pb n="3" facs="tcp:30162:2"/>
+            <head>Meninnunk wutch M<g ref="char:V">Ʋ</g>KKIESOG.</head>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>TOH <hi>kutuſſeaunſhuk GOD?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>GOD nukkezhuke, nanawúnuk, kah woh nup<g ref="char:EOLhyphen"/>pohquohwhunuk.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Howan GOD?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>GOD naſhauanittoooo, wutch ne<g ref="char:EOLhyphen"/>henwonche, kah naſhpe nehenwonche.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Tohſuooog Manittooog?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Paſuk nont GOD, qut niſhuoo, Wuttooſhimau, Wunnaumoniin, kah ooneetu<g ref="char:EOLhyphen"/>panatamwe naſhauanit.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttoh kittín keezhukqunaz GOD?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Ut negonne nunneechetuonganog-Sampweſeae, kah ooncetupanatamwe.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Sun kunneetimus Sampweſeae, kah oo<g ref="char:EOLhyphen"/>neetupanatamwe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Matchaog. Negonne noochetuong<g ref="char:EOLhyphen"/>anog, matcheſeuppanneeg, kah neen nuta<g ref="char:EOLhyphen"/>pehteauooog.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Sun matcheſeae kunneetimus?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:30162:3"/>
+               <speaker>Namp.</speaker>
+               <p>Nukkuhkenaihetteap ut matcheetu<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>natamooónganit kah nunneeteup ut mat<g ref="char:EOLhyphen"/>cheſeonganit.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu keneetue Matcheſeonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>
+                  <hi>Adame</hi> matcheſeonk nutogquonta<g ref="char:EOLhyphen"/>món<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ean, kah anittue wuttinnepomantamoo<g ref="char:EOLhyphen"/>onganit nuttiyeuwonukqun.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagua anittne Kuttinnepomantamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Nuttmnepomantamooonk mohchi<g ref="char:EOLhyphen"/>yenoo wutch kitteamonteanitteaonk, num<g ref="char:EOLhyphen"/>wohreau marcheſeonk, kah ne webe, kah nagwutteohteau.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagua Matcheſeonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Matcheſeonk, pannenehheaonk Nau<g ref="char:EOLhyphen"/>ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Tohſunaſh Naumatuongaſh GOD?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Piogquttaſh.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagua Negonnòhtag?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Umman<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tooméhkon onkatogeeg mani<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooog ut anaquabeh.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Toh nauwuttamoooo yeu Naumatuonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Onk woh noowowoſſumómun webè<g ref="char:EOLhyphen"/>yeue, wunnamuhkuttée GOD, kah matta onkatagk, qut webe nagum.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu Nahohtóeu Anooteamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Aiyimauùhkon kuhhog nuuneukon<g ref="char:EOLhyphen"/>tunkoh. <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Toh nauwuttamoooo yeu Anooteamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Onk woh noowowoſſumomun wun<g ref="char:EOLhyphen"/>namuhkuttee GOD naſhpe wunnamuhkut<g ref="char:EOLhyphen"/>tée wowoſſumuaonk, neane GOD anootea<g ref="char:EOLhyphen"/>mup, kah matta neane woſketomp nameh<g ref="char:EOLhyphen"/>te<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>kup.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Uttiyeu Niſhwe Anooteamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:30162:3"/>
+               <speaker>Namp.</speaker>
+               <p>Neemunoohkon ooweſuonk JE<g ref="char:EOLhyphen"/>HOVAH kummanittoom tahnooche.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Toh anauwuttamoouk OOweſuonk God?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>GOD nehenwonche Nagum, kah wunneſeongaſh GOD ne naſhpe waheomuk, neane woſketomp waheomuk naſhpe oowe<g ref="char:EOLhyphen"/>ſuonk, kah uppahkèyeue wunnegenuongaſh, oowowoſſumuaonk, wuttinnoowaonk, kah wut<g ref="char:EOLhyphen"/>anakauſuongaſh.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu matta tahnooche attumunumooun<g ref="char:EOLhyphen"/>ate ooweſuonk GOD?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Auwohkônate GOD, kah oone<g ref="char:EOLhyphen"/>ſeongaſh GOD, wutch wuſſohſumooonga<g ref="char:EOLhyphen"/>nit, kah nehenwonche nuttinniyeuonganun mat tahnoochèyeue, mat matwabeſùe, matta matcheetooe.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu yaue Anooteamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Mehquontaſh Sabbath day woh kuppahkereauun.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Toh nauwuttamoooo ne Anooteamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Onk woh nutanwohſinnoowonta<g ref="char:EOLhyphen"/>mumun wutch anakauſuonk; nano moo<g ref="char:EOLhyphen"/>cheke wutch pompooonganit, onk woh nuppaſooſukauoomun GOD, naſhpe oonee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>panatamwe peantamweſeongaſh.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu Nepanna taſhe Anooteamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Quttianum Kooſh, kah Kokas onk woh kuſſepe pomantam ut kutohkeít uttiyeu JEHOVAH Kum Manittoom a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>numu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<g ref="char:EOLhyphen"/>quean.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Toh nauwuttamoooo yeuut, naſhpe wuttoo<g ref="char:EOLhyphen"/>ſhimau, kah wuttokaſumau?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Wame anukunkqueageegk, aſu<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ut chaſhiyeuonganit, ut Schoolhuwaonga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.
+<pb n="6" facs="tcp:30162:4"/>ut Moeuwehkomunganit, kah ut wame Neetohteaumunganunnónog.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu Quttianumaonganoo ne naſhpe woh quttian<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>madt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Quttianittuonk, noſwehtamooonk, kah (tapenont) onkquatunk.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu nequtta taſhe Anooteamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Nuſhehteohkon.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Toh nauwuttamoooo <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Anooteamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Onk woh mat nuttioliquehteómun nuppomantamooonganun, aſuh noonamam<g ref="char:EOLhyphen"/>mooonganun, aſuh uppomantamooonganoo onkatogeegk, qut naneeſwe wadchanumúnate.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu neſanſuk taſhe Anooteamooonk. (Nam) Mam<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hkon</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu ne naſhpe anoonittàmuk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Kohkonantamooonk ne naſhpe niſh<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h paſuk woh oowahteauun wutahteauunate oowiſq ut pahke<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eahahuwaonganit, kah qut<g ref="char:EOLhyphen"/>tianittuonganit.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu matcheſconk ne naſhpe quah<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ittimuk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Niſhkeneunkqheónate nuhhogka<g ref="char:EOLhyphen"/>nónog aſuh onkatogeeg naſhpe niſkeneunk<g ref="char:EOLhyphen"/>que matche<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>antamooongaſh.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Uttiyeu Swoſuk taſhe Anooteamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Kommootohkon.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Uttiyeu Kommootooonk quahtinittimuk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Neemu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umuna<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e onkatogeeg um<g ref="char:EOLhyphen"/>ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>machiy<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mooooſh, matta <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nuanumukook, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uh ogk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hteanunate rehenwonche num<g ref="char:EOLhyphen"/>maumachinonaſh matta toh hen Ennompau<g ref="char:EOLhyphen"/>mukqúod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o, en nuhhogkanon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g, aſuh onka<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ogeh.</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:30162:4"/>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Uttiyeu ne naſhpe anoonittumuk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Sampweſeae achuuhtiunate num<g ref="char:EOLhyphen"/>maumachiyeumaſh, wunnadchanumùnate, ka<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> waanramwe ogketeaúunnate.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Uttiyeu. Paskoogun taſhe Anooteamoo<g ref="char:EOLhyphen"/>onk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Pannoowae wauwaonúhkon ketat<g ref="char:EOLhyphen"/>teaumunk.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Uttiyeu matcheſeonk quahtinittimuk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Pannoowàe pehtuonate, mat wun<g ref="char:EOLhyphen"/>namuhkuttée Unnantamùnnate, aſuh keke<g ref="char:EOLhyphen"/>tookontamùnate, papaume nuhhogkanónog, aſuh onkatogeeg.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Uttiyeu ne naſhpe anoonittùmuk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Wunnamúhkutteyeuuk, kah wun<g ref="char:EOLhyphen"/>nomwauſſeonk.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Uttiyeu Piogque Anooteamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Ahchewóntogkon.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Uttiyeu Ahchuwontamooonk yeu ut quah<g ref="char:EOLhyphen"/>tìnittimuk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Ahchuwontamúnate Ummauma<g ref="char:EOLhyphen"/>chiyeumaſh onkatogeeg aſuh ma<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a tapon<g ref="char:EOLhyphen"/>tamoounate nehenwonche nummaumachi<g ref="char:EOLhyphen"/>nonaſh.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Sun kenanawehteoh wame yeuſh Anoo<g ref="char:EOLhyphen"/>teamooongaſh?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Matchaog: Neen, kah wame miſ<g ref="char:EOLhyphen"/>ſinninneumog marcheſeupan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeg.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagaa Wutonkquatunk-matcheſeonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Nuppoowonk, kah Awakompana<g ref="char:EOLhyphen"/>enk.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Howan naſhpe wadchanitteáan?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Webe naſhpe JESUS CHRIST.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Howan JESUS CHRIST?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:30162:5"/>
+               <speaker>Namp.</speaker>
+               <p>Michemohtae wunnaumoniin GOD<g ref="char:punc">▪</g> noh wutche nuhhogkanonut woſketompoooo, ónk woh kummanouhukqun, kah koowad<g ref="char:EOLhyphen"/>chanukqun.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Toh kittin manohukqunane, kah wad<g ref="char:EOLhyphen"/>chanukqunnane JESUS CHRIST?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Naſhpe wuſſampwe pomantamoo<g ref="char:EOLhyphen"/>onganit, kah weeſogke nuppooonganit, kah wuſſohſumóe pomantamoe wonk omohke<g ref="char:EOLhyphen"/>onganit.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Toh kittin nuhwuttacbónumun, kah mo<g ref="char:EOLhyphen"/>appooman CHRIST <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut wunnuppooonganit, kah wutomohkeonganit?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Naſhpe Ummenuhkeſue wuttin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oo<g ref="char:EOLhyphen"/>waonk, kah naſhauanit Uttiyeuſh naſhpe paſookqueogiſh, en Chriſtur, kah ut wuhhog<g ref="char:EOLhyphen"/>kate wadchanukqueogiſh.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagua Wuttinnoowaonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Quoſhodtumwaeninùe, kah Apoſtle<g ref="char:EOLhyphen"/>ſue ooneetupanatamwe Wuſſukwhoſunganaſh, Negonne, kah Wuſku Teſtament, Naumatu<g ref="char:EOLhyphen"/>onk, kah Wunnaunehemookaonk:</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Uttiyeu naſhpe nohtompeantogkae Nau<g ref="char:EOLhyphen"/>matuonk kuppaſookqunate en Chriſtut?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Naſhpe noowahheauwahikqúnate nummatcheſeonk, kah Ummuſqualtamooonk GOD nutaiyeuhkônukqun.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Uttoh ut, yeu naſhpe kuppaſooſukau Chriſtoh?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Ne naſhpe noowaamattam numa<g ref="char:EOLhyphen"/>taanumitteáe enniyeuonk, kah nukquenauhik<g ref="char:EOLhyphen"/>ooonk pohquohwuſſuaènin.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Uttiyeu naſhpe wunnaunchemookae kuk<g ref="char:EOLhyphen"/>kootomo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dtuo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k kutanianumank qun yeu ut kum<g ref="char:EOLhyphen"/>mataanunitteae Enniye<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:30162:5"/>
+               <speaker>Namp.</speaker>
+               <p>Naſhpe nanomoocheke nu<gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pahukqúnate, kah neit wuſſuhwhunukqun wutch ne Enniyeuonk.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu naſhpe wunnaunchemookae kah<g ref="char:EOLhyphen"/>kootomoadtuonk kummoocheke hohpahukqun?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Naſhpe wahteauwahuwonate Uk<g ref="char:EOLhyphen"/>kitteamonteanitteaonk JESUS CHRIST, noh weekontamwe napuk wadchanonate matcheſeaenuog, kah nummatcheſeonk mat noonamptamooonóun, kah nunnoochumweſe<g ref="char:EOLhyphen"/>onk peyauonónate kah ne naſhpe noowaa<g ref="char:EOLhyphen"/>mattam nuhhog papaquanne noowanheit.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu naſhpe wunnannchemookae kuh<g ref="char:EOLhyphen"/>kootomoadtuonk kuſſuhwhunnkqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wutch ne wan<g ref="char:EOLhyphen"/>hittue Enniyeuonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Naſhpe nukkuhkootomunkqun miſh<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>drue, kah ummenuhkeſúe nuppoowonk CHRIST, kah ooweenauweetue kitteamon<g ref="char:EOLhyphen"/>teanitteaonk en wanhitcheeg matcheſeaen<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>og, kah naſhpe noowahteauwahikqun Ukkit<g ref="char:EOLhyphen"/>teamonteanitteàe quoſhomuaonk neaneſitcheeg, kah nutinninnumunkqun monaneteáe Naſh<g ref="char:EOLhyphen"/>auanit ne naſhpe woh nutat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>úmun CHRIST, kah ukkitteamonteanitteae quoſhomuaonk, kah nooweetom.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu naſhpe monaneteae Naſhananit kutaninnumunk attumunònate CHRIST, kah Ummonaneteae quoſhomuaonk, kah kooweetòmukq?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Monaneteae Naſhauanit kezteauun wunnamptamooonk ut nuhhogkate attumun<g ref="char:EOLhyphen"/>onate CHRIST, peantamooonk peanta<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uônate, a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſkoian<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amooonk maunnitteau<g ref="char:EOLhyphen"/>ónate
+<pb n="10" facs="tcp:30162:6"/>kah, noſwehtamooonk noſwehtau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nate.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagua wunnamptamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Wunnamptamooonk ne naſhauanit<g ref="char:EOLhyphen"/>tue kitteamonteanittuonk ne naſhpe nukque<g ref="char:EOLhyphen"/>nuwáon nuhhog. kah noonamptam JESUS CHRIST, wutch Sampweſeonk, kah wad<g ref="char:EOLhyphen"/>chanittuonk.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagua Peantamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Peantamooonk ne wehquehtumuwa<g ref="char:EOLhyphen"/>onk GOD wutch JESUS CHRIST naſhpe wutanninúhſuonk ooneetupanatamwe Naſhauanit, neaunak wuttenantamooonk God.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagua Aiuskoiantamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Aiuſkoiantamooonk ne naſhauanittue kitteamonteanitteaonk ne naſhpe niſhkontam wame Nummatcheſeonganunnonaſh, kah nuſ<g ref="char:EOLhyphen"/>ſampooonaſh ut anaquabit GOD, kah num<g ref="char:EOLhyphen"/>mauunittau CHRIST wutch ahquonta<g ref="char:EOLhyphen"/>moadtuonk, kah wutch wuſku-pomantamoo<g ref="char:EOLhyphen"/>onganit.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagua wusku-pomantamooonk? Aſuh wusku noſwehtamooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Wuſku-Pomantamooonk ne Mona<g ref="char:EOLhyphen"/>neteaonk naſhauanit ne naſhpe nunnúhkon wame nuhkone nummatcheſeonganunnonaſh, kah nummatcheſeae wee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ómukeeg, kah nup<g ref="char:EOLhyphen"/>pomſſtam ut anaquabit GOD ut wut inno<g ref="char:EOLhyphen"/>waongane wequai, kah ut ooweetomuaonganit ooneetupanatamweyeuitcheeg.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagua Weetomuaonk ooneetupanatamwe<g ref="char:EOLhyphen"/>yeuitcheeg?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Weetomaonk ooneetupanatamwe<g ref="char:EOLhyphen"/>yeuitcheeg
+<pb n="11" facs="tcp:30162:6"/>ne Moeuwehkomungane moeu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>htóoonk ut wunnanittuongaſh kitteamontea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itteae wunnoowaonk, kah menuhketeaong<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh naut.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagua Moeuwehkomunk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Moeuwehkomunk ne mukkinneaonk wunneetupanatamweyeuitcheeg weechaiyeuh<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uog naſhpe wunnoowàe kenepiſſuonganit, wowoſſumonate GOD, kah oonenehittina<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut ut wame ooneetupanatamwe ukkuhkoo<g ref="char:EOLhyphen"/>waongaſh.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagua wunnoowae kenepiſſuonk ne naſhpe Moeuwehkumunk w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>echaiyeùhtumuk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Wunnoowae kenepiſſuonk ne naſhpe Moeuwehkomunk weechaiyeúhtumuk, ne Pah<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſampooaonk wunnoowaonk ne GOD kezteunkup naſhpe wuſſampwutteaháe miſſin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inneumoh Godoounate nah en, kah wun<g ref="char:EOLhyphen"/>neechanooouh.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Toh hen kiſhpinnau GOD ummiſſinnin<g ref="char:EOLhyphen"/>ncumoh yeu ut wunnoowaonganit?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Wuſke mágunate wuhhogkauh, kah wunneechanooooh en Lordut miſſinninneumu<g ref="char:EOLhyphen"/>nate, kah neit Woeuwehkomungane Noh<g ref="char:EOLhyphen"/>tompeantogomoh kah weemattinneunk kod<g ref="char:EOLhyphen"/>chittônumunate wowoſſumaonk GOD, kah ooneuehittinnaout.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu naſhpe mághettit wuhhogkauh kah wunneechanoòut en Lordut?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Naſhpe wunnamptamoe wuttattum<g ref="char:EOLhyphen"/>unumooonganoo JEHOVAH, kah oo<g ref="char:EOLhyphen"/>wunnoowaouk, wutch wuhhogkauh, kah wun<g ref="char:EOLhyphen"/>neechanaôout, kah naſhpe uppomſhaonganoo neaúnak, kah naſhpe wutanookauwaonganoo
+<pb n="12" facs="tcp:30162:7"/>wunneechanooouh ut wame wunnoowae Um<g ref="char:EOLhyphen"/>mayiſh.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeu naſhpe maghettit wuhhogkauh, kah wunneechanoóuh ea M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>euwehkomungane noh<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mpeautogomoh, kah weem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ttínneunk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Naſhpe wuſſampooaonganoo um<g ref="char:EOLhyphen"/>ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cheſeonganoooaſh, kah wunnamptamoo<g ref="char:EOLhyphen"/>onganoo, kah wunnoſwehtamooonganoo wun<g ref="char:EOLhyphen"/>naunchemookaonk CHRIST, kah ne naſh<g ref="char:EOLhyphen"/>pe n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g, kah wunneechanoouh attumunum<g ref="char:EOLhyphen"/>ooog en moeuwehkomongane wehtomaonk, kah menuhkereahaongaſh naut.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ttiyeuſh menuhketeahaongaſh wunnoo<g ref="char:EOLhyphen"/>waonk, yeuyeu ut wunnaunchemookae keſukodtaſh?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>K<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tcheſſumoooak, kah LORDE mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hadtuppooonk.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Toh k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tuſſeaunſhit ut Kutcheſſumooong<g ref="char:EOLhyphen"/>anit?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>U<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kutcheſſumooonk, nukkutcheſ<g ref="char:EOLhyphen"/>ſumooonk naſhpe nippe menuhketeauſue kuk<g ref="char:EOLhyphen"/>kinneaſuonk nukku<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſumitteaonk ut ooſqhe<g ref="char:EOLhyphen"/>onganit, kah naſh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uanit Chriſtoh, kah ne naſhpe nunnompenitteaonk eu Chriſtut, kah ahquontam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>adtuonk, kah uppahkheaonk nummatcheſeongaſh, kah nutomohkeonk wutch wame nutonkapunaongaſh, kah wonk nuto<g ref="char:EOLhyphen"/>mohkeonk wutch nuppunnate majiſh ne keſukod.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Toh kutuſſeannſhit ut LORDE Um<g ref="char:EOLhyphen"/>miſhadtuppooonganit?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp</speaker>
+               <p>U<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> LORDE Ummiſhadtuppoo<g ref="char:EOLhyphen"/>onganit attumunumooonk Sohqunumoe pe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gqanneeg, kah ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hkanumwe Wine ne me<g ref="char:EOLhyphen"/>nuhketeauſue
+<pb n="13" facs="tcp:30162:7"/>kuhkinneaſuonk weetomae Nutattumunumooonk wuhhog Chriſt wutch neen, Sohqſhae ooſqheonk Chriſt wutch neen, kah ne naſhpe nunneetuonk ut Chriſtut; ahquontamoadtuonk, kah neetſkehettuonk Nummatcheſeongaſh, weetomaonk Wunnaſh<g ref="char:EOLhyphen"/>auanittoomoh, nunnummenuhkeſuonk, kah nuppomantamooonk ut kitteamonteanitteaonk, kah nummoappuonk naſhpe Chriſt ut wuſſoh<g ref="char:EOLhyphen"/>ſumóe appuonganit ut majiſh Wuſſittumoe Reſukod.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagua Omohkeonk wutch Nuppunnate?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Chriſt peyont majiſh ooſittumooonk wame neeg apitcheeg ut weenohkehtu piſh wonk omohkeog, naneeſwe Sampweſecheeg, kah mat Sampweſeecheeg.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagua majiſh OOſittumooonk?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Majiſh ne keſukod wame piſh pe<g ref="char:EOLhyphen"/>yauog ut anaquabit ooſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umooe appuonganit Chriſt nompagunumunate wutanakauſuonga<g ref="char:EOLhyphen"/>noooaſh kah attumunumunate neaunak wut<g ref="char:EOLhyphen"/>onkquatonganoo.</p>
+            </sp>
+            <sp>
+               <speaker>Nat.</speaker>
+               <p>
+                  <hi>Chagua wutonkquatunk neit piſh actum<g ref="char:EOLhyphen"/>unumwog?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Namp.</speaker>
+               <p>Sampweſeecheeg piſh auog en mi<g ref="char:EOLhyphen"/>cheme pomantamooonganit, kah matchee<g ref="char:EOLhyphen"/>tukeeg piſh nukkonog en michemohtae noo<g ref="char:EOLhyphen"/>taut, ut k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nugke Mattannit, kah Wut An<g ref="char:EOLhyphen"/>gelſumoh.</p>
+            </sp>
+            <trailer>FINIS<g ref="char:punc">▪</g>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
